@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔Currently studying Software Engineering💻<br>✔Looking to collaborate with other developers⭐<br>✔Currently learning backend web development👨🏻‍💻<br>✔Ask me about frontend development - web design🎨<br>✔Looking for team working👨🏻‍🏫
+✔Currently studying Software Engineering💻<br>✔Looking to collaborate with other developers⭐<br>✔Currently learning Backend Web Development👨🏻‍💻<br>✔Ask me about Frontend Development - Web Design🎨<br>✔Looking for team working👨🏻‍🏫
 
 
 ## 🌐 Socials:
