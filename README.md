@@ -1,5 +1,5 @@
 # About Me:
-✔Studying Software Engineering💻<br>✔Currently learning Backend Web Development👨🏻‍💻<br>
+✔Studying Software Engineering💻<br>✔Web Developer👨🏻‍💻<br>
 
 
 ## 🌐 Socials:
